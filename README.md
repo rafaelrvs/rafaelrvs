@@ -7,6 +7,12 @@
 - ✉️ Você pode me encontrar no <a href="https://www.linkedin.com/in/rafael-vieira-662506195/">Linkedin</a>
 
 
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
 
 
 
