@@ -1,6 +1,6 @@
 ### Ola sou Rafael tenho 22 anos, Estudante de Analise e Desenvolvimento de Sistemas 👋
 
-- 💻 Estou aprendendo constantemente sobre tecnologias para back-end (C#, Java, Python).
+- 💻 JavaScript, React, HTML, CSS e C#
 - 🌅 Conhecimento em  html, css e javascript. 
 - 🎲 Conhecimento em Banco de dados em especifico PostegreSQL.
 - 🏃‍♂️ Conhecimento em metodologias ágil como Kanban, Scrun.
