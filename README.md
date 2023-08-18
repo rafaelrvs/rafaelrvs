@@ -14,7 +14,7 @@
 </div>  
 </br>
   </br>
-- ✉️ Você pode me encontrar no: linkedin  <a href="https://www.linkedin.com/in/rafael-vieira-662506195/">  <img  height="30" whidth="40"  
+- ✉️ Você pode me encontrar no:   <a href="https://www.linkedin.com/in/rafael-vieira-662506195/"> linkedin <img  height="30" whidth="40"  
   
 
 
