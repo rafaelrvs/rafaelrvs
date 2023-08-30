@@ -13,8 +13,8 @@
  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>  
 </br>
-  </br>
-- ✉️ Você pode me encontrar no:   <a href="https://www.linkedin.com/in/rafael-vieira-662506195/"> linkedin <img  height="30" whidth="40"  
+
+✉️ Você pode me encontrar no:  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>  <a href="https://www.linkedin.com/in/rafael-vieira-662506195/">  
   
 
 
