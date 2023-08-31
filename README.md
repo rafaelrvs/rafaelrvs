@@ -10,11 +10,23 @@
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
- <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+ <img align="center" alt="postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>  
 </br>
+<div>
+  <h5> ✉️ Você pode me encontar : </h5>
+</div>
+<p align="left">
 
-✉️ Você pode me encontrar no:  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>  <a href="https://www.linkedin.com/in/rafael-vieira-662506195/">  
+  <a href="mailto:ldsds94@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ldsds94@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs//" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs/" /></a>
+  
+  <a href="https://www.instagram.com/rafaelrvs/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/rafaelvieirv?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"/></a>
+</p>  
 
 | Projeto | Descrição | Repositorio | Pagina |
 |----------|----------|----------|----------|
