@@ -19,7 +19,7 @@
 <p align="left">
 
   <a href="mailto:ldsds94@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ldsds94@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelvieiracontatoonline4@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs//" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs/" /></a>
@@ -39,11 +39,11 @@
 
 
 
-<a href="https://github.com/LeoUpperThrower4">
+<a href="https://github.com/rafaelrvs">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=white-blue&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/LeoUpperThrower4">
+<a href="https://github.com/rafaelrvs">
  <img align="start" src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=white-blue&line_height=40"  alt="Rafael Vieira Github stats"/>
 </a>
 
