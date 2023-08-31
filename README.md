@@ -24,11 +24,17 @@
 | Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
 | Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://vercel.com/rafaelrvs/stopwatch/47YCuY5peBkGiYaoLsSeXzrBpvhX/) |
 <br/>
-  <div align="left">
-  
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+
+
+
+<a href="https://github.com/LeoUpperThrower4">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=white-blue&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/LeoUpperThrower4">
+ <img align="start" src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=white-blue&line_height=40"  alt="Rafael Vieira Github stats"/>
+</a>
+
 
 
 
