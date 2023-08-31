@@ -23,8 +23,12 @@
 | Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
 | Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
 | Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://vercel.com/rafaelrvs/stopwatch/47YCuY5peBkGiYaoLsSeXzrBpvhX/) |
-
+<br/>
+  <div align="left">
   
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
 
 
