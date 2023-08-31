@@ -39,7 +39,7 @@
 
 
 
-<a href="https://github.com/rafaelrvs">
+<a href="https://github.com/rafaelrvs " alt="Gmail">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=white-blue&hide_langs_below=1" />
 </a>
 
