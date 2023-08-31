@@ -15,6 +15,15 @@
 </br>
 
 ✉️ Você pode me encontrar no:  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>  <a href="https://www.linkedin.com/in/rafael-vieira-662506195/">  
+
+| Projeto | Descrição | Repositorio | Pagina |
+|----------|----------|----------|----------|
+| Monitor-For-Company | Auxilio nas atividades de uma empresa | [Link](https://github.com/rafaelrvs/Monitoring-for-Company.git)| [Link](https://monitoring-for-company.vercel.app/) |
+| Portfolio | Site responsivo | [Link](https://github.com/rafaelrvs/ambiente-site.git)| [Link](https://ambiente-site.vercel.app/) |
+| Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
+| Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
+| Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://vercel.com/rafaelrvs/stopwatch/47YCuY5peBkGiYaoLsSeXzrBpvhX/) |
+
   
 
 
