@@ -30,6 +30,7 @@
 | Projeto | Descrição | Repositorio | Pagina |
 |----------|----------|----------|----------|
 | Monitor-For-Company | Auxilio nas atividades de uma empresa | [Link](https://github.com/rafaelrvs/Monitoring-for-Company.git)| [Link](https://monitoring-for-company.vercel.app/) |
+| Avaliação Fisica | Auxilio nas academias| [Link](https://github.com/rafaelrvs/Avaliacao-Fisica.git)| [Link](https://avaliacao-fisica.vercel.app/) |
 | Portfolio | Site responsivo | [Link](https://github.com/rafaelrvs/ambiente-site.git)| [Link](https://ambiente-site.vercel.app/) |
 | Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
 | Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
