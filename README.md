@@ -34,7 +34,7 @@
 | Portfolio | Site responsivo | [Link](https://github.com/rafaelrvs/ambiente-site.git)| [Link](https://ambiente-site.vercel.app/) |
 | Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
 | Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
-| Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://vercel.com/rafaelrvs/stopwatch/47YCuY5peBkGiYaoLsSeXzrBpvhX/) |
+| Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://stopwatch-ten-tau.vercel.app/) |
 <br/>
 
 
