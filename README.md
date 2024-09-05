@@ -30,8 +30,10 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://https://www.instagram.com/rafaelvieirv/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"/></a>
 </p>  
 
+
 | Projeto | Descrição | Repositorio | Pagina |
 |----------|----------|----------|----------|
+| Pega o bus AI | Site de consulta de onibus | [Link](https://github.com/rafaelrvs/Pega_p_bus_Ai.git)| [Link](https://pega-p-bus-ai.vercel.app/) |
 | Avaliação Fisica | Auxilio nas academias| [Link](https://github.com/rafaelrvs/Avaliacao-Fisica.git)| [Link](https://avaliacao-fisica.vercel.app/) |
 | Portfolio | Site responsivo | [Link](https://github.com/rafaelrvs/ambiente-site.git)| [Link](https://ambiente-site.vercel.app/) |
 | Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
