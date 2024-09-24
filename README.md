@@ -1,3 +1,11 @@
+
+
+<div align="center">
+  <img src="https://github.com/jeferson-paz/jeferson-paz/blob/main/profile.gif" width="800px" style="animation: wave 2s infinite;" alt="Profile Animation">
+  <p style="font-size: 24px;"></p>
+</div>
+
+
 ### Ola sou Rafael tenho 23 anos, Estudante de Analise e Desenvolvimento de Sistemas 👋
 
 
@@ -20,24 +28,33 @@
   <h5> ✉️ Você pode me encontar : </h5>
 </div>
 <p align="left">
-  <a href="mailto:rafaelvieiracontatoonline@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaelvieiracontatoonline@gmail.com" /></a>
 
+
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs//" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rafaelrvs/" /></a>
-  
   <a href="https://www.instagram.com/rafaelvieirv/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://https://www.instagram.com/rafaelvieirv/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"/></a>
+</div>
+    <br>
 </p>  
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="start" alt="GitHub Stats"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=rafaelrvs&theme=tokyonight" align="center"  alt="GitHub Trophies"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
+  
+</div>
 
-<a href="https://github.com/rafaelrvs " alt="Gmail">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=white-blue&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/rafaelrvs">
- <img align="start" src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=white-blue&line_height=40"  alt="Rafael Vieira Github stats"/>
-</a>
+<div align="center">
+  <!-- Gráfico de Atividades Recentes -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrvs&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</div>
+
+
 
 
 
