@@ -40,9 +40,9 @@
 
 </p>  
 
-<div>
-  <br>
+<diva  lign="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="end" alt="GitHub Stats"/>
+  <br>
       <img src="https://github-profile-trophy.vercel.app/?username=rafaelrvs&theme=tokyonight" align="center"  alt="GitHub Trophies"/>
   <br><br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
