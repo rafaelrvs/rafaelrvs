@@ -37,14 +37,13 @@
   <a href="https://www.instagram.com/rafaelvieirv/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://https://www.instagram.com/rafaelvieirv/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"/></a>
 </div>
-    <br>
+
 </p>  
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="start" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="start" alt="GitHub Stats"/>
       <img src="https://github-profile-trophy.vercel.app/?username=rafaelrvs&theme=tokyonight" align="center"  alt="GitHub Trophies"/>
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
+  <   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
   
 </div>
 
