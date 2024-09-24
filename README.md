@@ -42,14 +42,18 @@
 
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=rafaelrvs&show_icons=true&theme=tokyonight"  align="start" alt="GitHub Stats"/>
+  <br>
       <img src="https://github-profile-trophy.vercel.app/?username=rafaelrvs&theme=tokyonight" align="center"  alt="GitHub Trophies"/>
-  <   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
+  <br><br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelrvs&theme=tokyonight" alt="GitHub Streak"/>
+  <br>
   
 </div>
 
 
 <div align="center">
   <!-- Gráfico de Atividades Recentes -->
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrvs&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
 
