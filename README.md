@@ -31,18 +31,6 @@
 </p>  
 
 
-| Projeto | Descrição | Repositorio | Pagina |
-|----------|----------|----------|----------|
-| Pega o bus AI | Site de consulta de onibus | [Link](https://github.com/rafaelrvs/Pega_p_bus_Ai.git)| [Link](https://pega-p-bus-ai.vercel.app/) |
-| Avaliação Fisica | Auxilio nas academias| [Link](https://github.com/rafaelrvs/Avaliacao-Fisica.git)| [Link](https://avaliacao-fisica.vercel.app/) |
-| Portfolio | Site responsivo | [Link](https://github.com/rafaelrvs/ambiente-site.git)| [Link](https://ambiente-site.vercel.app/) |
-| Jogo do alvo | acerte o alvo | [Link](https://github.com/rafaelrvs/GameAlvo.git)| [Link](https://acerte-o-alvo.vercel.app/) |
-| Robotron | manipulando o dom com javascript | [Link](https://github.com/rafaelrvs/manipulacaoDom.git)| [Link](https://manipulacao-dom-one.vercel.app/) |
-| Cronometro |Cronometro interativo que altera cor  | [Link](https://github.com/rafaelrvs/stopwatch.git)| [Link](https://stopwatch-ten-tau.vercel.app/) |
-<br/>
-
-
-
 <a href="https://github.com/rafaelrvs " alt="Gmail">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrvs&theme=white-blue&hide_langs_below=1" />
 </a>
